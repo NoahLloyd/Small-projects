@@ -1,0 +1,17 @@
+# Vscode extensions
+code --install-extension ms-python.python
+code --install-extension esbenp.prettier-vscode
+code --install-extension ritwickdey.liveserver
+code --install-extension visualstudioexptteam.vscodeintellicode
+code --install-extension eamodio.gitlens
+code --install-extension pkief.material-icon-theme
+code --install-extension formulahendry.code-runner
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension xabikos.javascriptsnippets
+code --install-extension coenraads.bracket-pair-colorizer
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension aaron-bond.better-comments
+code --install-extension steoates.autoimport
+code --install-extension icrawl.discord-vscode
