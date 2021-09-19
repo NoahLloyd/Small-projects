@@ -2,8 +2,11 @@
 apt update
 apt install snapd
 # Dev tools needed for the other installments
-sudo snap install node --classic
-sudo snap install git-ubuntu --classic
+snap install node --classic
+snap install git-ubuntu --classic
+# Git setup
+git config --global user.name "Noah Lloyd"
+git config --global user.email "noahlloydrobson@gmail.com"
 # Brave browser
 git clone https://github.com/brave/browser-laptop.git  
 cd browser-laptop
